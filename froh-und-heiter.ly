@@ -1,5 +1,5 @@
 \header {
-  title = "froh und heiter"
+  title = "Froh und heiter. Rheinländer (A13)"
   composer = "fkel"
 }
 
@@ -40,10 +40,14 @@ g8 d g
 }
 \repeat volta 2{
 \key c \major
-c,8 | c4 c
+c,8 | c4 c %26
 c4 e
 f4 g
 c,16 d e g c4
+c,4 c %30
+c4 e
+g8 d g16 g, a b
+c8 g c 
  }
 }
 
