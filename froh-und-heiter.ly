@@ -1,6 +1,6 @@
 \header {
   title = "Froh und heiter. Rheinländer (A13)"
-  composer = "fkel"
+  composer = "arr. fkel"
 }
 
 vlc=\relative c' {
